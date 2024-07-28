@@ -12,7 +12,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/vaibhavnimesh1",
   resume:
-    "https://drive.google.com/file/d/1wziNWW8jrvXW2uaiwHB6eaU3AdCbjQu_/view",
+    "https://drive.google.com/file/d/1Od5kWite_NZnU8gV0iaJ_I_kGpDUUNuZ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vaibhavnimesh/",
   twitter: "https://www.linkedin.com/in/vaibhavnimesh/",
   insta: "https://www.linkedin.com/in/vaibhavnimesh/",
