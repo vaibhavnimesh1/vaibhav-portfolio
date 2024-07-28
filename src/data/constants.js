@@ -207,7 +207,7 @@ export const experiences = [
     img: "https://imgs.search.brave.com/RPesPMu1VE4nAcc9miIv4N9ADT1oIr331MrQLIiVPqM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9TYW1zdW5n/L1NhbXN1bmctTG9n/by53aW5lLnN2Zw",
     role: "Web Developer Intern",
     company: "Samsung R&D Institute India -Noida ",
-    date: "Nov 2023 - Jan 2024",
+    date: "Mar 2024 - May 2024",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
     skills: [
       "ReactJS",
